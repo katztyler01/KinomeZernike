@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn... 2218 2231 2294')
+REMARK Selection 'not water'
 ATOM      1  N   ALA A  51      33.609   6.879 -33.512  1.00 35.59           N  
 ATOM      2  CA  ALA A  51      33.161   8.269 -33.490  1.00 35.08           C  
 ATOM      3  C   ALA A  51      33.830   9.046 -32.355  1.00 35.00           C  
@@ -2486,9 +2486,4 @@ HETATM 2484  C20 2NS A1001      -1.961  12.704   4.400  1.00 15.91           C
 HETATM 2485  C21 2NS A1001      -0.971  10.822   6.270  1.00 18.38           C  
 HETATM 2486  C22 2NS A1001      -2.615  14.510   8.356  1.00 25.11           C  
 HETATM 2487  C23 2NS A1001      -5.384  16.368   4.929  1.00 23.08           C  
-HETATM 2488  O   HOH A2066       4.429   4.005   4.015  1.00 26.07           O  
-HETATM 2489  O   HOH A2076       3.239   5.504   6.345  1.00 29.48           O  
-HETATM 2490  O   HOH A2218       0.464  11.264   9.891  1.00 49.45           O  
-HETATM 2491  O   HOH A2231       5.353   3.560   6.722  1.00 41.88           O  
-HETATM 2492  O   HOH A2294       5.016   8.154  -0.996  1.00 44.27           O  
 END   

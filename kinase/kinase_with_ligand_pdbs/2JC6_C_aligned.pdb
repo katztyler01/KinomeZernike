@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn... 2019 2030 2082')
+REMARK Selection 'not water'
 ATOM      1  N   SER C  11      18.299   6.167 -15.284  1.00 18.60           N  
 ATOM      2  CA  SER C  11      19.647   6.682 -15.670  1.00 22.59           C  
 ATOM      3  C   SER C  11      19.562   7.977 -16.515  1.00 20.95           C  
@@ -2199,9 +2199,4 @@ HETATM 2197  N3  QPP C1314      -0.195  14.954   6.386  1.00  2.00           N
 HETATM 2198  C4  QPP C1314      -1.173  15.655   5.800  1.00  6.34           C  
 HETATM 2199  C5  QPP C1314      -1.450  15.462   4.444  1.00  9.52           C  
 HETATM 2200  C6  QPP C1314      -0.662  14.535   3.709  1.00 20.32           C  
-HETATM 2201  O   HOH C2006      -0.105  18.993   9.145  1.00  9.97           O  
-HETATM 2202  O   HOH C2007      -1.261  14.276  10.526  1.00 14.46           O  
-HETATM 2203  O   HOH C2019       4.751   8.916   2.568  1.00 12.32           O  
-HETATM 2204  O   HOH C2030      -5.704  15.038   7.029  1.00 11.69           O  
-HETATM 2205  O   HOH C2082      -3.001  11.999   6.340  1.00 14.60           O  
 END   

@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...623 655 669 704')
+REMARK Selection 'not water'
 ATOM      1  N   VAL A  39      12.917  25.113  12.318  1.00 84.05           N  
 ATOM      2  CA  VAL A  39      12.209  25.549  11.112  1.00 79.08           C  
 ATOM      3  C   VAL A  39      12.905  25.029   9.858  1.00 78.86           C  
@@ -2366,9 +2366,4 @@ HETATM 2364  C1  EDO A 403       5.504   7.257  -3.584  1.00 36.58           C
 HETATM 2365  O1  EDO A 403       6.010   5.994  -3.116  1.00 31.56           O  
 HETATM 2366  C2  EDO A 403       4.038   7.424  -3.191  1.00 30.88           C  
 HETATM 2367  O2  EDO A 403       3.856   7.395  -1.758  1.00 32.67           O  
-HETATM 2368  O   HOH A 518      -5.526  20.654   4.349  1.00 66.00           O  
-HETATM 2369  O   HOH A 623       1.780   9.478  -0.721  1.00 38.45           O  
-HETATM 2370  O   HOH A 655       1.447   5.489   8.733  1.00 47.89           O  
-HETATM 2371  O   HOH A 669       4.847   7.133   0.692  1.00 50.17           O  
-HETATM 2372  O   HOH A 704       4.257   5.841   2.025  1.00 57.23           O  
 END   

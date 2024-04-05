@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...177 301 302 303')
+REMARK Selection 'not water'
 ATOM      1  N   MET B  17      20.318  24.797 -11.232  1.00126.78           N  
 ATOM      2  CA  MET B  17      19.622  23.523 -10.898  1.00126.19           C  
 ATOM      3  C   MET B  17      18.149  23.687 -10.463  1.00121.31           C  

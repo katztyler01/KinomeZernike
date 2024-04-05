@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn... 2033 2054 2123')
+REMARK Selection 'not water'
 ATOM      1  N   SER A 577      17.786  -2.073 -18.752  1.00 54.40           N  
 ATOM      2  CA  SER A 577      17.052  -1.326 -17.687  1.00 52.15           C  
 ATOM      3  C   SER A 577      17.759  -0.010 -17.363  1.00 50.93           C  
@@ -2062,10 +2062,4 @@ HETATM 2060  NAK IK1 A1871       0.324  10.723   0.084  1.00 17.29           N
 HETATM 2061  OAC IK1 A1871       1.497   8.798  -0.012  1.00 15.77           O  
 HETATM 2062  OAD IK1 A1871      -1.696  12.172   0.429  1.00 16.77           O  
 HETATM 2063  SAL IK1 A1871       1.248   9.797   2.462  1.00 18.42           S  
-HETATM 2064  O   HOH A2022       3.165   5.465   7.684  1.00 14.36           O  
-HETATM 2065  O   HOH A2025       8.789   0.313   8.642  1.00 30.43           O  
-HETATM 2066  O   HOH A2028       7.253   6.770   2.698  1.00 28.85           O  
-HETATM 2067  O   HOH A2033      -3.095  18.569   5.627  1.00 11.93           O  
-HETATM 2068  O   HOH A2054      -5.210  15.067   4.953  1.00 26.17           O  
-HETATM 2069  O   HOH A2123      -2.598  12.977   5.391  1.00 34.51           O  
 END   

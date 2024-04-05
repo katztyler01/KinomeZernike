@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn... 1455 1467 1488')
+REMARK Selection 'not water'
 ATOM      1  N   SER A 974      33.511  28.961 -30.128  1.00 47.86           N  
 ATOM      2  CA  SER A 974      32.624  27.867 -29.601  1.00 50.40           C  
 ATOM      3  C   SER A 974      33.117  27.112 -28.346  1.00 50.29           C  
@@ -2478,7 +2478,4 @@ HETATM 2476  C8  ACP A1301       1.757   9.442   2.430  1.00 26.66           C
 HETATM 2477  N9  ACP A1301       0.920  10.169   3.194  1.00 27.71           N  
 HETATM 2478  MG  MG  A1302       3.947   3.420   4.522  1.00 23.31          MG  
 HETATM 2479  MG  MG  A1303       8.582   4.865   6.928  1.00 29.38          MG  
-HETATM 2480  O   HOH A1455       3.274   6.472  -2.541  1.00 32.23           O  
-HETATM 2481  O   HOH A1467       5.962   5.506  -2.834  1.00 20.80           O  
-HETATM 2482  O   HOH A1488       3.396   8.002  -0.280  1.00 45.95           O  
 END   

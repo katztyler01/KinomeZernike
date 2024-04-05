@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn... 2029 2060 2113')
+REMARK Selection 'not water'
 ATOM      1  N   ILE A  34      20.204   4.482  -8.550  1.00 71.23           N  
 ATOM      2  CA  ILE A  34      20.328   5.546  -9.530  1.00 71.95           C  
 ATOM      3  C   ILE A  34      19.596   5.136 -10.784  1.00 71.93           C  
@@ -2164,8 +2164,4 @@ HETATM 2162  NBA DKI A1338       0.240  11.162   1.250  1.00 28.51           N
 HETATM 2163  SBB DKI A1338      -2.342  15.240   7.819  1.00 48.71           S  
 HETATM 2164  FAF DKI A1338       0.794   7.111   1.758  1.00 43.54           F  
 HETATM 2165  FAG DKI A1338       2.474  10.063   4.952  1.00 38.62           F  
-HETATM 2166  O   HOH A2023       1.203   7.641   8.518  1.00 38.65           O  
-HETATM 2167  O   HOH A2029      -5.942  14.166   5.602  1.00 38.65           O  
-HETATM 2168  O   HOH A2060       6.846   3.989  -3.116  1.00 43.89           O  
-HETATM 2169  O   HOH A2113      -1.539  10.217   5.048  1.00 37.77           O  
 END   

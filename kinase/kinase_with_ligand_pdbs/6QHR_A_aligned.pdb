@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...501 632 650 676')
+REMARK Selection 'not water'
 ATOM      1  N   LYS A 117      11.606  11.620 -16.958  1.00 64.92           N  
 ATOM      2  CA  LYS A 117      12.644  11.977 -17.918  1.00 57.19           C  
 ATOM      3  C   LYS A 117      13.026  13.447 -17.782  1.00 51.73           C  
@@ -2207,7 +2207,4 @@ HETATM 2205  C16 J3N A 501       5.455   9.320  -2.099  1.00 59.41           C
 HETATM 2206  C17 J3N A 501       3.772   8.744  -0.592  1.00 40.28           C  
 HETATM 2207  C18 J3N A 501       6.291  11.526  -2.395  1.00 44.08           C  
 HETATM 2208  C19 J3N A 501       6.913  10.600  -3.225  1.00 33.22           C  
-HETATM 2209  O   HOH A 632       4.281   6.385  -3.255  1.00 44.27           O  
-HETATM 2210  O   HOH A 650       2.207   4.930   3.242  1.00 41.95           O  
-HETATM 2211  O   HOH A 676      -1.914  11.696   5.411  1.00 39.62           O  
 END   

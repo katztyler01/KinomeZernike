@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...695 707 717 751')
+REMARK Selection 'not water'
 ATOM      1  N   ASP B 258      17.281  14.390 -16.692  1.00 27.66           N  
 ATOM      2  CA  ASP B 258      16.100  13.506 -16.472  1.00 27.32           C  
 ATOM      3  C   ASP B 258      14.795  14.290 -16.611  1.00 26.13           C  
@@ -2230,15 +2230,4 @@ ATOM   2228  CD1 LEU B 533     -19.065  -5.313   9.188  1.00 27.28           C
 ATOM   2229  CD2 LEU B 533     -18.608  -2.870   9.037  1.00 27.35           C  
 ATOM   2230  OXT LEU B 533     -22.754  -1.946   7.246  1.00 26.65           O1-
 TER    2231      LEU B 533                                                      
-HETATM 2232  O   HOH B 576       1.140  11.406  -1.513  1.00 20.44           O  
-HETATM 2233  O   HOH B 578       5.664  12.572  -1.895  1.00 19.61           O  
-HETATM 2234  O   HOH B 592      -0.695  13.582   0.726  1.00 15.72           O  
-HETATM 2235  O   HOH B 608       2.887   9.046  -1.813  1.00 21.58           O  
-HETATM 2236  O   HOH B 612       5.931   9.507  -1.467  1.00 27.35           O  
-HETATM 2237  O   HOH B 619       3.337   7.071   0.263  1.00 27.71           O  
-HETATM 2238  O   HOH B 681      -1.770  16.006   8.574  1.00 39.28           O  
-HETATM 2239  O   HOH B 695       8.808   3.509   3.912  1.00 44.11           O  
-HETATM 2240  O   HOH B 707       4.560  12.122   0.706  1.00 43.31           O  
-HETATM 2241  O   HOH B 717      -5.625  16.086   7.251  1.00 37.31           O  
-HETATM 2242  O   HOH B 751       2.223   9.576   2.349  1.00 40.06           O  
 END   

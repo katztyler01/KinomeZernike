@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...401 547 583 590')
+REMARK Selection 'not water'
 ATOM      1  N   ASP B  27      14.517  20.837  10.295  1.00148.78           N  
 ATOM      2  CA  ASP B  27      14.049  22.233  10.048  1.00149.26           C  
 ATOM      3  C   ASP B  27      13.815  22.496   8.549  1.00145.04           C  
@@ -2086,7 +2086,4 @@ HETATM 2084  NAX 49J B 401       2.082  10.602  -0.727  1.00 45.47           N
 HETATM 2085  OAN 49J B 401      -3.579  16.080   5.127  1.00 46.99           O  
 HETATM 2086  OAO 49J B 401       4.692  10.270  -1.049  1.00 49.60           O  
 HETATM 2087  SAP 49J B 401       0.099  11.960  -1.583  1.00 46.07           S  
-HETATM 2088  O   HOH B 547       6.158   5.680  -3.198  1.00 34.30           O  
-HETATM 2089  O   HOH B 583       5.406   6.601   0.662  1.00 44.78           O  
-HETATM 2090  O   HOH B 590      -2.579   8.309 -10.984  1.00 54.49           O  
 END   

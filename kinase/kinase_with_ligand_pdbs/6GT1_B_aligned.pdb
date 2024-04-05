@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...121 179 181 401')
+REMARK Selection 'not water'
 ATOM      1  N   LYS B  20      16.415  31.295   0.107  1.00111.41           N  
 ATOM      2  CA  LYS B  20      16.538  30.898  -1.331  1.00114.15           C  
 ATOM      3  C   LYS B  20      15.444  31.541  -2.203  1.00114.70           C  

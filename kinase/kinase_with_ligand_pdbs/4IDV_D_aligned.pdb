@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...535 536 538 701')
+REMARK Selection 'not water'
 ATOM      1  N   PHE D 331      30.170   4.114 -23.448  1.00109.15           N  
 ATOM      2  CA  PHE D 331      29.186   4.430 -24.534  1.00112.68           C  
 ATOM      3  C   PHE D 331      27.756   4.282 -24.060  1.00108.24           C  

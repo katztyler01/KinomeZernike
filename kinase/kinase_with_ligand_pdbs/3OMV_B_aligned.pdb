@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...486 487 489 490')
+REMARK Selection 'not water'
 ATOM      1  N   TYR B 340      11.798  14.147 -20.797  1.00 68.00           N  
 ATOM      2  CA  TYR B 340      10.693  13.494 -20.034  1.00 68.00           C  
 ATOM      3  C   TYR B 340      11.038  13.365 -18.553  1.00 68.00           C  

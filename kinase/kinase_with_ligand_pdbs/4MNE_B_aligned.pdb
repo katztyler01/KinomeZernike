@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...595 596 598 814')
+REMARK Selection 'not water'
 ATOM      1  N   ASP B 449      11.052  14.003 -18.909  1.00 78.58           N  
 ATOM      2  CA  ASP B 449      11.804  13.783 -17.681  1.00 82.60           C  
 ATOM      3  C   ASP B 449      11.128  14.438 -16.473  1.00 76.51           C  
@@ -2167,5 +2167,4 @@ ATOM   2165  CB  PRO B 722     -32.484  -4.209  -4.821  1.00 86.23           C
 ATOM   2166  CG  PRO B 722     -32.240  -4.773  -3.435  1.00 79.76           C  
 ATOM   2167  CD  PRO B 722     -30.976  -5.586  -3.535  1.00 69.94           C  
 TER    2168      PRO B 722                                                      
-HETATM 2169  O   HOH B 814       5.275   6.850  -2.253  1.00 41.35           O  
 END   

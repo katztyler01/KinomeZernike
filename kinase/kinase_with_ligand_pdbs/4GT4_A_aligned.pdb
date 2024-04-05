@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...38 940 983 1017')
+REMARK Selection 'not water'
 ATOM      1  N   LYS A 464       8.385  12.653 -20.534  1.00 90.55           N  
 ATOM      2  CA  LYS A 464       9.452  13.301 -19.779  1.00 91.36           C  
 ATOM      3  C   LYS A 464       9.017  13.587 -18.345  1.00 89.06           C  
@@ -2135,7 +2135,4 @@ ATOM   2133  C   ASN A 751     -23.567  -2.166  -9.536  1.00 92.78           C
 ATOM   2134  O   ASN A 751     -22.442  -2.603  -9.781  1.00 88.78           O  
 ATOM   2135  CB  ASN A 751     -25.712  -2.356  -8.245  1.00 94.39           C  
 TER    2136      ASN A 751                                                      
-HETATM 2137  O   HOH A 940       3.663   6.014  -8.155  1.00 45.58           O  
-HETATM 2138  O   HOH A 983      -1.362  10.486   6.788  1.00 46.94           O  
-HETATM 2139  O   HOH A1017       1.378   6.326   3.451  1.00 52.80           O  
 END   

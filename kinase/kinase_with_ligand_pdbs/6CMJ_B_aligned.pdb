@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...603 614 677 682')
+REMARK Selection 'not water'
 ATOM      1  N   GLN B 161      10.397  28.354   0.431  1.00 78.65           N  
 ATOM      2  CA  GLN B 161      11.434  27.554   1.163  1.00 81.65           C  
 ATOM      3  C   GLN B 161      12.344  26.742   0.223  1.00 76.94           C  
@@ -2283,8 +2283,4 @@ HETATM 2281  C24 F6J B 501      -2.091  12.644   4.176  1.00 35.12           C
 HETATM 2282  C   FMT B 502      14.257   5.847  12.078  1.00 38.32           C  
 HETATM 2283  O1  FMT B 502      13.808   5.816  10.945  1.00 44.57           O  
 HETATM 2284  O2  FMT B 502      15.481   6.308  12.217  1.00 39.00           O  
-HETATM 2285  O   HOH B 603       3.752   2.779   5.057  1.00 42.42           O  
-HETATM 2286  O   HOH B 614       7.611   8.226   4.210  1.00 35.02           O  
-HETATM 2287  O   HOH B 677       4.024   6.686  -2.423  1.00 38.94           O  
-HETATM 2288  O   HOH B 682       1.948   7.741   8.940  1.00 34.77           O  
 END   

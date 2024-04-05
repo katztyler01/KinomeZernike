@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...397 445 484 668')
+REMARK Selection 'not water'
 ATOM      1  N   HIS C  49      11.013  27.196   0.628  1.00 33.16           N  
 ATOM      2  CA  HIS C  49      10.805  26.857  -0.826  1.00 33.97           C  
 ATOM      3  C   HIS C  49      11.880  25.935  -1.448  1.00 33.18           C  
@@ -2534,10 +2534,4 @@ ATOM   2532  CE2 TYR C 363      -5.527  17.394  -7.960  1.00 52.00           C
 ATOM   2533  CZ  TYR C 363      -4.447  16.598  -8.298  1.00 51.79           C  
 ATOM   2534  OH  TYR C 363      -4.007  15.733  -7.316  1.00 52.27           O  
 TER    2535      TYR C 363                                                      
-HETATM 2536  O   HOH C 368      -0.608  12.635   1.077  1.00 23.90           O  
-HETATM 2537  O   HOH C 375       3.605   6.926  -2.397  1.00 25.34           O  
-HETATM 2538  O   HOH C 397       1.082  11.554  -0.737  1.00 31.43           O  
-HETATM 2539  O   HOH C 445       2.405   9.191  -0.823  1.00 30.05           O  
-HETATM 2540  O   HOH C 484       4.730   2.644   5.262  1.00 33.52           O  
-HETATM 2541  O   HOH C 668      -1.970  12.187   3.372  1.00 38.28           O  
 END   

@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...20 668 691 9001')
+REMARK Selection 'not water'
 ATOM      1  N   GLY D 512      35.260   8.197  -8.759  1.00 95.23           N  
 ATOM      2  CA  GLY D 512      35.470   7.182  -7.734  1.00 95.18           C  
 ATOM      3  C   GLY D 512      35.514   5.760  -8.279  1.00 99.11           C  

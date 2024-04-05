@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn... 1021 1042 1053')
+REMARK Selection 'not water'
 ATOM      1  N   GLN B 565       4.926  -1.384 -22.809  1.00 49.57           N  
 ATOM      2  CA  GLN B 565       6.063  -1.844 -21.940  1.00 48.09           C  
 ATOM      3  C   GLN B 565       7.264  -0.911 -22.079  1.00 43.86           C  
@@ -2244,12 +2244,4 @@ ATOM   2242  CD  GLU B 850     -25.196  -8.683  -9.208  1.00 76.41           C
 ATOM   2243  OE1 GLU B 850     -26.233  -9.330  -9.492  1.00 80.23           O  
 ATOM   2244  OE2 GLU B 850     -24.408  -8.251 -10.078  1.00 74.91           O1-
 TER    2245      GLU B 850                                                      
-HETATM 2246  O   HOH B 909       8.950  -0.108   2.489  1.00 21.98           O  
-HETATM 2247  O   HOH B 990      -1.992  12.771   0.167  1.00 25.74           O  
-HETATM 2248  O   HOH B 994      -0.419  11.532  -1.748  1.00 30.84           O  
-HETATM 2249  O   HOH B 995       1.311   9.772  -1.394  1.00 29.81           O  
-HETATM 2250  O   HOH B 997       7.136   4.632   2.733  1.00 34.11           O  
-HETATM 2251  O   HOH B1021       1.064   9.748   1.480  1.00 35.88           O  
-HETATM 2252  O   HOH B1042       0.245   7.005   4.434  1.00 48.38           O  
-HETATM 2253  O   HOH B1053      -2.169  12.416   2.604  1.00 54.82           O  
 END   

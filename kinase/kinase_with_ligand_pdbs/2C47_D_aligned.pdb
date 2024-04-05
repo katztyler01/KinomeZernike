@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn... 2003 2008 2031')
+REMARK Selection 'not water'
 ATOM      1  N   MET D  42      14.800  23.034 -11.010  1.00 65.53           N  
 ATOM      2  CA  MET D  42      13.387  22.548 -10.763  1.00 68.28           C  
 ATOM      3  C   MET D  42      13.008  22.326  -9.298  1.00 59.86           C  
@@ -2307,7 +2307,4 @@ HETATM 2305  C7  5ID D1300       2.111  10.062   1.881  1.00 32.90           C
 HETATM 2306  C8  5ID D1300       1.980   9.643   3.139  1.00 47.15           C  
 HETATM 2307  N9  5ID D1300       0.953  10.289   3.719  1.00 51.89           N  
 HETATM 2308  IAE 5ID D1300       3.579   9.337   0.533  1.00 75.46           I  
-HETATM 2309  O   HOH D2003       5.927   7.508  -0.616  1.00 35.78           O  
-HETATM 2310  O   HOH D2008       7.839   0.794   2.429  1.00 54.00           O  
-HETATM 2311  O   HOH D2031       5.335   7.951   3.862  1.00 48.65           O  
 END   

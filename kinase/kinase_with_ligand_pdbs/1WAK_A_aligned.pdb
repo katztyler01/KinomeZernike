@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn... 2148 2150 2151')
+REMARK Selection 'not water'
 ATOM      1  N   CYS A  63      15.180  18.570   7.274  1.00101.67           N  
 ATOM      2  CA  CYS A  63      15.540  17.180   7.675  1.00100.98           C  
 ATOM      3  C   CYS A  63      16.969  17.091   8.208  1.00100.59           C  
@@ -2863,10 +2863,4 @@ ATOM   2861  O   SER A 655     -24.479  -7.294  -3.692  1.00 86.95           O
 ATOM   2862  CB  SER A 655     -22.873  -4.653  -1.927  1.00 65.24           C  
 ATOM   2863  OG  SER A 655     -23.832  -4.880  -0.911  1.00 68.53           O  
 TER    2864      SER A 655                                                      
-HETATM 2865  O   HOH A2054       5.299   5.623  -2.500  1.00 30.30           O  
-HETATM 2866  O   HOH A2100       0.711  12.236  -0.318  1.00 54.45           O  
-HETATM 2867  O   HOH A2132       0.937   6.071   5.176  1.00 40.96           O  
-HETATM 2868  O   HOH A2148       5.661   6.813   1.657  1.00 54.72           O  
-HETATM 2869  O   HOH A2150       3.718   7.291  -0.817  1.00 35.62           O  
-HETATM 2870  O   HOH A2151       2.373   7.786   2.667  1.00 55.85           O  
 END   

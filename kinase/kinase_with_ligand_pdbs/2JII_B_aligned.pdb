@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn... 2157 2159 2160')
+REMARK Selection 'not water'
 ATOM      1  N   THR B 137      14.526  -7.266  10.118  1.00 59.53           N  
 ATOM      2  CA  THR B 137      15.943  -6.784  10.053  1.00 62.91           C  
 ATOM      3  C   THR B 137      16.064  -5.350   9.490  1.00 62.18           C  
@@ -2577,15 +2577,4 @@ ATOM   2575  CG  MET B 472     -15.749  14.948   8.031  1.00 92.85           C
 ATOM   2576  SD  MET B 472     -15.521  15.708   9.647  1.00 99.62           S  
 ATOM   2577  CE  MET B 472     -17.135  15.467  10.398  1.00 90.84           C  
 TER    2578      MET B 472                                                      
-HETATM 2579  O   HOH B2027      -2.160  11.630   5.537  1.00 45.72           O  
-HETATM 2580  O   HOH B2030       3.918   9.719   4.893  1.00 43.97           O  
-HETATM 2581  O   HOH B2038      -0.893  14.767   1.207  1.00 58.13           O  
-HETATM 2582  O   HOH B2039       2.061   8.584   0.081  1.00 38.06           O  
-HETATM 2583  O   HOH B2040       4.901   6.114   2.426  1.00 40.81           O  
-HETATM 2584  O   HOH B2050      -0.636   9.718   5.656  1.00 38.57           O  
-HETATM 2585  O   HOH B2051      -2.263  10.329   8.279  1.00 50.16           O  
-HETATM 2586  O   HOH B2058       3.099   9.856  -1.490  1.00 46.51           O  
-HETATM 2587  O   HOH B2157       1.475   7.258   4.466  1.00 51.04           O  
-HETATM 2588  O   HOH B2159      -0.715   7.149   5.858  1.00 34.41           O  
-HETATM 2589  O   HOH B2160       1.771   6.166   2.195  1.00 33.42           O  
 END   

@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn... 1480 1481 1483')
+REMARK Selection 'not water'
 ATOM      1  N   ASN A 567      24.044 -13.981 -19.431  1.00 15.79           N  
 ATOM      2  CA  ASN A 567      22.602 -14.426 -19.635  1.00 16.03           C  
 ATOM      3  C   ASN A 567      21.570 -13.268 -19.871  1.00 15.21           C  
@@ -2329,5 +2329,4 @@ ATOM   2327  NE2 GLN A 927     -18.788  -9.187  -2.741  1.00 39.49           N
 ATOM   2328  OE1 GLN A 927     -19.236  -7.942  -0.912  1.00 39.09           O  
 TER    2329      GLN A 927                                                      
 HETATM 2330  MG  MG  A1481       3.361   3.807   4.813  1.00  5.11          MG  
-HETATM 2331  O   HOH A1483       3.536   8.177  -1.109  1.00 15.00           O  
 END   

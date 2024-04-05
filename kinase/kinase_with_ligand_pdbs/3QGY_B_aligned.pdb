@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...724 725 727 759')
+REMARK Selection 'not water'
 ATOM      1  N   MET B 356      13.161  11.430 -15.909  1.00 55.99           N  
 ATOM      2  CA  MET B 356      13.595  12.261 -14.752  1.00 55.77           C  
 ATOM      3  C   MET B 356      12.789  13.545 -14.674  1.00 55.02           C  
@@ -1986,8 +1986,4 @@ HETATM 1984  C19 L7O B   1      -2.613  12.623   7.030  1.00 43.08           C
 HETATM 1985  C20 L7O B   1      -3.603  13.534   6.523  1.00 43.69           C  
 HETATM 1986  C21 L7O B   1      -3.733  13.728   5.102  1.00 43.82           C  
 HETATM 1987  C22 L7O B   1       3.797   7.251  -2.998  1.00 43.50           C  
-HETATM 1988  O   HOH B 724       3.203   8.166   5.189  1.00 27.77           O  
-HETATM 1989  O   HOH B 725       5.777   6.815   5.859  1.00 27.78           O  
-HETATM 1990  O   HOH B 727       1.460   6.056   1.961  1.00 28.52           O  
-HETATM 1991  O   HOH B 759      -0.353   8.332   6.313  1.00 24.45           O  
 END   

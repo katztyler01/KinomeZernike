@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...74 177 178 2003')
+REMARK Selection 'not water'
 ATOM      1  N   TYR A  21      18.954  10.466 -13.211  1.00 96.35           N  
 ATOM      2  CA  TYR A  21      18.159   9.426 -13.912  1.00 96.34           C  
 ATOM      3  C   TYR A  21      17.070  10.068 -14.763  1.00 96.11           C  
@@ -2226,5 +2226,4 @@ ATOM   2224  C   LYS A 308     -15.586  17.492   8.951  1.00 92.56           C
 ATOM   2225  O   LYS A 308     -15.925  17.262  10.114  1.00 92.23           O  
 ATOM   2226  CB  LYS A 308     -14.473  16.956   6.757  1.00 92.67           C  
 TER    2227      LYS A 308                                                      
-HETATM 2228  O   HOH A2003       2.860   8.238  -1.300  1.00 55.24           O  
 END   

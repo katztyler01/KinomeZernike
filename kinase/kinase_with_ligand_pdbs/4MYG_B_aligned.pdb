@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...169 451 454 466')
+REMARK Selection 'not water'
 ATOM      1  N   ASN B  15       9.934  16.654  13.822  1.00116.96           N  
 ATOM      2  CA  ASN B  15      10.440  17.999  13.560  1.00124.68           C  
 ATOM      3  C   ASN B  15      11.968  18.078  13.543  1.00124.42           C  
@@ -2737,7 +2737,4 @@ ATOM   2735  CB  PRO B 351       5.409  17.581 -14.650  1.00 88.20           C
 ATOM   2736  CG  PRO B 351       6.846  17.856 -14.343  1.00 85.13           C  
 ATOM   2737  CD  PRO B 351       7.556  17.779 -15.653  1.00 88.87           C  
 TER    2738      PRO B 351                                                      
-HETATM 2739  O   HOH B 451      -0.028  11.192  -0.941  1.00 45.25           O  
-HETATM 2740  O   HOH B 454       2.034  10.197  -0.791  1.00 55.37           O  
-HETATM 2741  O   HOH B 466       9.360   3.073   1.773  1.00 56.39           O  
 END   

@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...0 193 1301 2008')
+REMARK Selection 'not water'
 ATOM      1  N   ASN A   5       7.246  44.998   7.203  1.00 73.69           N  
 ATOM      2  CA  ASN A   5       6.054  44.736   8.104  1.00 70.80           C  
 ATOM      3  C   ASN A   5       4.857  44.214   7.293  1.00 67.55           C  
@@ -2320,5 +2320,4 @@ HETATM 2318  C25 STU A1301       1.618  11.118   6.958  1.00 41.26           C
 HETATM 2319  C26 STU A1301       4.858   9.726   6.535  1.00 47.45           C  
 HETATM 2320  C27 STU A1301       1.742   7.438   4.766  1.00 48.25           C  
 HETATM 2321  C28 STU A1301       1.301   6.369   7.876  1.00 54.96           C  
-HETATM 2322  O   HOH A2008       6.308   5.582  -3.099  1.00 33.71           O  
 END   

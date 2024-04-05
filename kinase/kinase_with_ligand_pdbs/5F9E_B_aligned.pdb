@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn... 1107 1126 1137')
+REMARK Selection 'not water'
 ATOM      1  N   LEU B 375      14.544  20.262 -11.402  1.00113.59           N  
 ATOM      2  CA  LEU B 375      14.165  21.619 -10.917  1.00112.11           C  
 ATOM      3  C   LEU B 375      14.961  21.959  -9.661  1.00110.80           C  
@@ -2477,7 +2477,4 @@ HETATM 2475  C27 5VS B1001       0.003  13.323  -0.122  1.00 50.43           C
 HETATM 2476  N28 5VS B1001       0.217  12.782  -1.380  1.00 50.25           N  
 HETATM 2477  C30 5VS B1001       1.053  11.741  -1.265  1.00 49.45           C  
 HETATM 2478  O31 5VS B1001       1.411  11.068  -2.210  1.00 49.36           O  
-HETATM 2479  O   HOH B1107       5.714   5.979  -3.455  1.00 59.00           O  
-HETATM 2480  O   HOH B1126       3.479   7.413  -2.791  1.00 49.75           O  
-HETATM 2481  O   HOH B1137       5.762   9.199  -2.760  1.00 57.77           O  
 END   

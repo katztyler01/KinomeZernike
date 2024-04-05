@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...70 371 900 1001')
+REMARK Selection 'not water'
 ATOM      1  N   PHE D   7      25.135   4.766 -39.850  1.00130.51           N  
 ATOM      2  CA  PHE D   7      25.776   5.935 -39.252  1.00128.50           C  
 ATOM      3  C   PHE D   7      24.763   6.853 -38.552  1.00128.77           C  
@@ -3255,5 +3255,4 @@ HETATM 3253  C30 B4J D 900      11.238   3.794   3.264  1.00 60.81           C
 HETATM 3254  S31 B4J D 900      12.662   3.757   4.209  1.00 63.52           S  
 HETATM 3255  N32 B4J D 900      11.110   2.687   2.611  1.00 60.94           N  
 HETATM 3256  C33 B4J D 900      13.661  -0.939   4.640  1.00 60.40           C  
-HETATM 3257  O   HOH D1001      -4.371  10.221   7.155  1.00 60.19           O  
 END   

@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...470 471 472 701')
+REMARK Selection 'not water'
 ATOM      1  N   ASP A 330      -1.984  21.011  36.059  1.00100.97           N  
 ATOM      2  CA  ASP A 330      -0.694  20.268  35.895  1.00 98.34           C  
 ATOM      3  C   ASP A 330       0.035  20.640  34.602  1.00 96.60           C  

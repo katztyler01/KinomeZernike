@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn... 1001 1113 1130')
+REMARK Selection 'not water'
 ATOM      1  N   THR A 561      13.656  30.488   7.876  1.00 73.61           N  
 ATOM      2  CA  THR A 561      13.159  30.028   6.541  1.00 71.52           C  
 ATOM      3  C   THR A 561      11.660  29.633   6.578  1.00 68.80           C  
@@ -3303,6 +3303,4 @@ HETATM 3301  C29 3E4 A1001       7.779   8.074  -6.022  1.00 52.63           C
 HETATM 3302  C30 3E4 A1001       6.565   8.248  -6.607  1.00 52.15           C  
 HETATM 3303  C31 3E4 A1001       5.425   7.789  -5.995  1.00 52.33           C  
 HETATM 3304  C32 3E4 A1001       5.482   7.159  -4.778  1.00 52.06           C  
-HETATM 3305  O   HOH A1113      -3.636  14.889  10.416  1.00 44.67           O  
-HETATM 3306  O   HOH A1130       6.504   7.949   2.991  1.00 40.25           O  
 END   

@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...401 551 579 634')
+REMARK Selection 'not water'
 ATOM      1  N   PRO B  25      12.475  35.291   4.908  1.00105.81           N  
 ATOM      2  CA  PRO B  25      12.266  34.998   3.492  1.00105.59           C  
 ATOM      3  C   PRO B  25      13.440  34.208   2.881  1.00104.02           C  
@@ -2883,7 +2883,4 @@ HETATM 2881  C30 6H3 B 401       3.161   6.351   1.299  1.00 62.74           C
 HETATM 2882  C31 6H3 B 401       2.073   6.634   0.413  1.00 57.95           C  
 HETATM 2883  O32 6H3 B 401       4.086   8.480   1.862  1.00 62.55           O  
 HETATM 2884  N33 6H3 B 401       0.351  11.350   2.408  1.00 48.73           N  
-HETATM 2885  O   HOH B 551      -2.251  21.039   3.941  1.00 48.65           O  
-HETATM 2886  O   HOH B 579       4.584   6.640  -2.787  1.00 40.26           O  
-HETATM 2887  O   HOH B 634       7.491   7.326   3.658  1.00 52.73           O  
 END   

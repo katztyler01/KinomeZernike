@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn... 1312 1407 1458')
+REMARK Selection 'not water'
 ATOM      1  N   TYR A 585      24.864  27.592  -2.212  1.00 72.17           N  
 ATOM      2  CA  TYR A 585      24.128  26.463  -2.857  1.00 68.61           C  
 ATOM      3  C   TYR A 585      22.634  26.757  -2.976  1.00 65.96           C  
@@ -2173,8 +2173,4 @@ HETATM 2171  C2  GOL A1103       6.311  -0.131  -6.743  1.00 43.36           C
 HETATM 2172  O2  GOL A1103       7.250  -1.131  -6.412  1.00 43.04           O  
 HETATM 2173  C3  GOL A1103       4.950  -0.783  -6.967  1.00 42.77           C  
 HETATM 2174  O3  GOL A1103       4.514  -1.329  -5.744  1.00 38.93           O  
-HETATM 2175  O   HOH A1301      -1.698  11.479   7.330  1.00 24.86           O  
-HETATM 2176  O   HOH A1312      -4.193  16.940   2.990  1.00 21.73           O  
-HETATM 2177  O   HOH A1407      -0.827   9.242   8.584  1.00 45.69           O  
-HETATM 2178  O   HOH A1458       5.028   1.543   6.136  1.00 42.45           O  
 END   

@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...501 604 608 685')
+REMARK Selection 'not water'
 ATOM      1  N   GLU A  54       8.699  28.159  -7.467  1.00 83.56           N  
 ATOM      2  CA  GLU A  54       7.685  27.289  -8.071  1.00 81.35           C  
 ATOM      3  C   GLU A  54       6.649  26.727  -7.060  1.00 82.36           C  
@@ -2740,7 +2740,4 @@ HETATM 2738  H7  9N8 A 501      -1.466  13.078   7.004  1.00 75.00           H
 HETATM 2739  H8  9N8 A 501      -2.055  15.438   6.376  1.00 77.28           H  
 HETATM 2740  H9  9N8 A 501       0.250  15.312   3.007  1.00 74.17           H  
 HETATM 2741  H10 9N8 A 501       2.664  10.469   2.200  1.00 55.48           H  
-HETATM 2742  O   HOH A 604       6.828   4.563  -3.220  1.00 52.01           O  
-HETATM 2743  O   HOH A 608       5.068   6.442  -2.350  1.00 51.74           O  
-HETATM 2744  O   HOH A 685       2.084  10.209   4.585  1.00 69.43           O  
 END   

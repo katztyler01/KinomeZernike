@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn... 1303 2009 2054')
+REMARK Selection 'not water'
 ATOM      1  N   THR A  -8      24.902  17.416 -24.553  1.00 45.72           N  
 ATOM      2  CA  THR A  -8      24.130  16.130 -24.602  1.00 49.36           C  
 ATOM      3  C   THR A  -8      24.048  15.420 -23.236  1.00 51.93           C  
@@ -2450,6 +2450,4 @@ HETATM 2448  CBD DRN A1303       3.017   5.832   8.292  1.00 90.53           C
 HETATM 2449  CBE DRN A1303       1.976   6.654   5.889  1.00 71.21           C  
 HETATM 2450  CBF DRN A1303       2.891   7.336   4.886  1.00 52.68           C  
 HETATM 2451  NBC DRN A1303       2.690   5.451   9.532  1.00 89.08           N  
-HETATM 2452  O   HOH A2009      -8.180  10.885   9.507  1.00 51.19           O  
-HETATM 2453  O   HOH A2054       3.229   7.416  -2.251  1.00 39.96           O  
 END   

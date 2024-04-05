@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...230 343 345 352')
+REMARK Selection 'not water'
 ATOM      1  N   SER A  39      23.973  26.407 -17.069  1.00 56.59           N  
 ATOM      2  CA  SER A  39      22.925  26.845 -16.088  1.00 56.57           C  
 ATOM      3  C   SER A  39      22.974  26.005 -14.790  1.00 56.13           C  
@@ -1941,7 +1941,4 @@ ATOM   1939  CA  GLY A 335     -18.011  -6.931 -10.971  1.00 56.76           C
 ATOM   1940  C   GLY A 335     -18.297  -7.958 -12.053  1.00 56.96           C  
 ATOM   1941  O   GLY A 335     -18.419  -9.155 -11.774  1.00 57.11           O  
 TER    1942      GLY A 335                                                      
-HETATM 1943  O   HOH A 343       3.381   6.830  -2.932  1.00 21.21           O  
-HETATM 1944  O   HOH A 345      -1.651  13.104  -0.481  1.00 28.28           O  
-HETATM 1945  O   HOH A 352      11.352   0.029  -5.846  1.00 30.34           O  
 END   

@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...518 534 546 650')
+REMARK Selection 'not water'
 ATOM      1  N   GLY B   3      16.950 -28.381  -1.957  1.00 40.72           N  
 ATOM      2  CA  GLY B   3      16.454 -27.060  -1.580  1.00 39.78           C  
 ATOM      3  C   GLY B   3      14.972 -26.833  -1.860  1.00 40.22           C  
@@ -2769,9 +2769,4 @@ HETATM 2767  C3  BEZ B 404       1.376  10.565  -1.041  1.00 21.43           C
 HETATM 2768  C4  BEZ B 404       1.259  10.940   0.282  1.00 19.92           C  
 HETATM 2769  C5  BEZ B 404       2.129  10.418   1.222  1.00 21.53           C  
 HETATM 2770  C6  BEZ B 404       3.111   9.511   0.840  1.00 19.97           C  
-HETATM 2771  O   HOH B 516       5.294   7.342   2.653  1.00 34.66           O  
-HETATM 2772  O   HOH B 518       4.391   3.885   4.473  1.00 31.61           O  
-HETATM 2773  O   HOH B 534       5.909   1.423   5.016  1.00 44.99           O  
-HETATM 2774  O   HOH B 546       5.660   5.977  -3.563  1.00 19.38           O  
-HETATM 2775  O   HOH B 650       8.738   2.096   1.570  1.00 32.95           O  
 END   

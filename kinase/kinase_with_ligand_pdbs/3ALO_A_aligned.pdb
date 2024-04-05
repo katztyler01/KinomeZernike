@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...250 253 255 406')
+REMARK Selection 'not water'
 ATOM      1  N   TRP A  95       6.054  19.570 -19.143  1.00 91.81           N  
 ATOM      2  CA  TRP A  95       6.803  19.318 -17.869  1.00 97.87           C  
 ATOM      3  C   TRP A  95       7.298  20.622 -17.207  1.00101.27           C  

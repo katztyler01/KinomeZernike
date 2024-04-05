@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...178 179 901 903')
+REMARK Selection 'not water'
 ATOM      1  N   PRO A  30      11.587  23.427 -13.173  1.00 93.42           N  
 ATOM      2  CA  PRO A  30      11.176  22.876 -11.877  1.00 86.36           C  
 ATOM      3  C   PRO A  30      12.320  22.866 -10.866  1.00 81.43           C  

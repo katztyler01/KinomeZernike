@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...402 405 502 505')
+REMARK Selection 'not water'
 ATOM      1  N   VAL F   8      25.126  23.404 -10.864  1.00 87.82           N  
 ATOM      2  CA  VAL F   8      24.167  24.523 -10.616  1.00 91.69           C  
 ATOM      3  C   VAL F   8      22.841  24.200 -11.300  1.00 90.38           C  
@@ -2634,6 +2634,4 @@ HETATM 2632  O2  SO4 F 405       5.089   8.017   0.031  1.00 96.15           O
 HETATM 2633  O3  SO4 F 405       4.128   7.153  -2.003  1.00 85.59           O1-
 HETATM 2634  O4  SO4 F 405       3.229   6.542   0.173  1.00 93.26           O  
 HETATM 2635  S   SO4 F 405       3.830   7.625  -0.627  1.00 97.06           S  
-HETATM 2636  O   HOH F 502       5.335   2.384   5.685  1.00 19.05           O  
-HETATM 2637  O   HOH F 505       0.457  10.778   0.190  1.00 28.18           O  
 END   

@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn... 1101 1104 1202')
+REMARK Selection 'not water'
 ATOM      1  N   GLY A 700      29.721   0.137  -3.454  1.00 50.67           N  
 ATOM      2  CA  GLY A 700      28.653  -0.841  -3.363  1.00 48.15           C  
 ATOM      3  C   GLY A 700      27.511  -0.548  -4.314  1.00 49.13           C  
@@ -4551,5 +4551,4 @@ HETATM 4549  H3' ADN A1104       0.163   7.630   6.166  1.00 67.16           H
 HETATM 4550  H4' ADN A1104       2.441   8.663   6.734  1.00 67.41           H  
 HETATM 4551 H5'1 ADN A1104       1.919   7.854   4.084  1.00 69.28           H  
 HETATM 4552 H5'2 ADN A1104       2.357   6.867   5.236  1.00 69.28           H  
-HETATM 4553  O   HOH A1202      -4.428  18.198   5.314  1.00 55.69           O  
 END   

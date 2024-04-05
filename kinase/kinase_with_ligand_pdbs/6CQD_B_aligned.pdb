@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...408 428 465 489')
+REMARK Selection 'not water'
 ATOM      1  N   VAL B   4      20.170   7.369 -10.126  1.00 95.39           N  
 ATOM      2  CA  VAL B   4      18.768   7.365  -9.720  1.00 94.53           C  
 ATOM      3  C   VAL B   4      17.872   7.635 -10.926  1.00 94.70           C  
@@ -2327,8 +2327,4 @@ HETATM 2325  N6  ANP B 302       0.307  11.743  -1.326  1.00 35.51           N
 HETATM 2326  N7  ANP B 302       1.580  10.191   1.017  1.00 43.30           N  
 HETATM 2327  C8  ANP B 302       1.678   9.856   2.280  1.00 43.42           C  
 HETATM 2328  N9  ANP B 302       0.770  10.482   3.095  1.00 45.34           N  
-HETATM 2329  O   HOH B 408       6.175   5.071  -2.864  1.00 33.18           O  
-HETATM 2330  O   HOH B 428       3.856   6.826  -2.103  1.00 40.29           O  
-HETATM 2331  O   HOH B 465      -0.119  10.167   9.551  1.00 42.48           O  
-HETATM 2332  O   HOH B 489      -4.772  12.966   8.581  1.00 58.57           O  
 END   

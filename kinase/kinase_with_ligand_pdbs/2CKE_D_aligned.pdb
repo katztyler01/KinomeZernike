@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn... 1302 2003 2009')
+REMARK Selection 'not water'
 ATOM      1  N   GLU D   2      14.348  11.764 -17.468  1.00 44.97           N  
 ATOM      2  CA  GLU D   2      14.908  10.688 -16.595  1.00 45.03           C  
 ATOM      3  C   GLU D   2      15.908  11.186 -15.546  1.00 44.52           C  
@@ -2459,6 +2459,4 @@ HETATM 2457  C8  IQU D1302      -0.395  13.259   1.886  1.00 53.20           C
 HETATM 2458  C9  IQU D1302       0.288  12.357   2.706  1.00 53.21           C  
 HETATM 2459  C10 IQU D1302       1.142  11.415   2.136  1.00 53.04           C  
 HETATM 2460  S   IQU D1302       1.897  10.245   4.480  1.00 53.32           S  
-HETATM 2461  O   HOH D2003       6.269   5.834  -2.877  1.00 24.41           O  
-HETATM 2462  O   HOH D2009       4.431   7.360  -1.460  1.00 14.03           O  
 END   

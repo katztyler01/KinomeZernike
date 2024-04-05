@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn... 2013 2016 2038')
+REMARK Selection 'not water'
 ATOM      1  N   SER A 115      10.695  10.733 -18.494  1.00 89.86           N  
 ATOM      2  CA  SER A 115       9.259  10.819 -18.239  1.00 87.90           C  
 ATOM      3  C   SER A 115       8.875  11.674 -17.002  1.00 88.57           C  
@@ -2044,8 +2044,4 @@ HETATM 2042  C8  AGS A1438       2.892   9.746   2.166  1.00 79.63           C
 HETATM 2043  N9  AGS A1438       2.079  10.546   2.894  1.00 82.36           N  
 HETATM 2044  MG  MG  A1439       3.098   2.983   5.709  1.00 72.16          MG  
 HETATM 2045  MG  MG  A1440       5.562   1.269   7.290  1.00 70.87          MG  
-HETATM 2046  O   HOH A2010      -2.379  12.930   4.938  1.00 59.69           O  
-HETATM 2047  O   HOH A2013       8.052  -6.513  -8.891  1.00 79.84           O  
-HETATM 2048  O   HOH A2016       4.207   7.304  -1.767  1.00 54.60           O  
-HETATM 2049  O   HOH A2038       6.448   5.463   9.065  1.00 87.42           O  
 END   

@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn... 1036 1037 2000')
+REMARK Selection 'not water'
 ATOM      1  N   GLU C 716       7.076  19.385 -18.492  1.00 94.88           N  
 ATOM      2  CA  GLU C 716       6.264  18.207 -18.056  1.00 93.92           C  
 ATOM      3  C   GLU C 716       7.151  16.984 -17.826  1.00 93.36           C  

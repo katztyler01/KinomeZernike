@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...700 824 843 866')
+REMARK Selection 'not water'
 ATOM      1  N   HIS B   1      21.000  36.183  16.037  1.00 61.70           N  
 ATOM      2  CA  HIS B   1      21.028  36.117  17.509  1.00 60.95           C  
 ATOM      3  C   HIS B   1      19.687  36.573  18.163  1.00 64.30           C  
@@ -5305,7 +5305,4 @@ HETATM 5303  C24 KSA B 700       0.576   9.574   5.426  1.00 34.58           C
 HETATM 5304  C25 KSA B 700       4.073   8.695   5.051  1.00 30.55           C  
 HETATM 5305  C26 KSA B 700       3.059   5.235   7.856  1.00 43.85           C  
 HETATM 5306  C27 KSA B 700       0.298   8.086   5.253  1.00 34.17           C  
-HETATM 5307  O   HOH B 824      -9.047  14.465   6.782  1.00 21.35           O  
-HETATM 5308  O   HOH B 843       6.565   7.764   7.374  1.00 36.42           O  
-HETATM 5309  O   HOH B 866      -5.556  14.579  11.251  1.00 39.91           O  
 END   

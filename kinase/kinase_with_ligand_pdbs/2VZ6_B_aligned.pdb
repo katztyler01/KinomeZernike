@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...7 600 2023 2043')
+REMARK Selection 'not water'
 ATOM      1  N   LEU B  -5      19.985  22.561  -0.945  1.00 52.40           N  
 ATOM      2  CA  LEU B  -5      20.608  23.506  -1.920  1.00 53.32           C  
 ATOM      3  C   LEU B  -5      19.686  23.752  -3.136  1.00 52.89           C  
@@ -2358,6 +2358,4 @@ HETATM 2356  OAP FEF B 600       3.301   4.741   4.024  1.00 63.16           O
 HETATM 2357  OAQ FEF B 600       3.928   7.312   4.371  1.00 81.01           O  
 HETATM 2358  OAV FEF B 600      -0.722  13.383  -0.612  1.00 22.56           O  
 HETATM 2359  CBA FEF B 600       2.647  10.277  -1.668  1.00 27.99           C  
-HETATM 2360  O   HOH B2023       6.834   5.632  -2.939  1.00 25.29           O  
-HETATM 2361  O   HOH B2043      -0.787   6.968   6.901  1.00 41.80           O  
 END   

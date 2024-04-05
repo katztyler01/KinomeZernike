@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...06 809 810 1001')
+REMARK Selection 'not water'
 ATOM      1  N   SER B 650      28.032   8.777 -12.961  1.00205.81           N  
 ATOM      2  CA  SER B 650      27.341   9.424 -14.070  1.00205.58           C  
 ATOM      3  C   SER B 650      25.903   9.769 -13.696  1.00197.42           C  

@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...152 902 935 947')
+REMARK Selection 'not water'
 ATOM      1  N   LYS X   1      16.993  18.062 -20.836  1.00 73.84           N  
 ATOM      2  CA  LYS X   1      16.998  17.868 -19.356  1.00 73.63           C  
 ATOM      3  C   LYS X   1      15.833  16.979 -18.924  1.00 72.25           C  
@@ -2156,6 +2156,4 @@ HETATM 2154  C25 STU X 902       1.410   9.697   5.678  1.00 25.38           C
 HETATM 2155  C26 STU X 902       4.581   8.014   4.980  1.00 20.84           C  
 HETATM 2156  C27 STU X 902       1.216   6.184   2.702  1.00 27.21           C  
 HETATM 2157  C28 STU X 902       1.448   4.855   6.755  1.00 25.53           C  
-HETATM 2158  O   HOH X 935      11.185   5.542   5.354  1.00 73.25           O  
-HETATM 2159  O   HOH X 947      10.434  -4.323   5.172  1.00 32.02           O  
 END   

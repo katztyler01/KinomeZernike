@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...164 166 168 309')
+REMARK Selection 'not water'
 ATOM      1  N   GLN B  11      12.732  24.237  -2.980  1.00116.98           N  
 ATOM      2  CA  GLN B  11      12.960  25.713  -2.909  1.00112.54           C  
 ATOM      3  C   GLN B  11      11.649  26.504  -2.794  1.00112.22           C  

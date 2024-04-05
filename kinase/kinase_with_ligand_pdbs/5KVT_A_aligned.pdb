@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...657 669 672 801')
+REMARK Selection 'not water'
 ATOM      1  N   CYS A 501      12.831   9.618 -18.515  1.00 89.41           N  
 ATOM      2  CA  CYS A 501      13.046   9.080 -17.140  1.00 94.21           C  
 ATOM      3  C   CYS A 501      12.447  10.044 -16.076  1.00 91.43           C  

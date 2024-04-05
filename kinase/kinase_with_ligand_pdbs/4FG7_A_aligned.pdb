@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...301 407 430 435')
+REMARK Selection 'not water'
 ATOM      1  N   ARG A   9      18.515   9.783 -14.241  1.00 76.31           N  
 ATOM      2  CA  ARG A   9      18.974  11.194 -14.427  1.00 76.37           C  
 ATOM      3  C   ARG A   9      17.856  12.160 -14.029  1.00 75.80           C  
@@ -2008,7 +2008,4 @@ ATOM   2006  C   ALA A 277     -20.679  -6.867  -8.168  1.00 50.01           C
 ATOM   2007  O   ALA A 277     -21.151  -5.960  -8.867  1.00 50.63           O  
 ATOM   2008  CB  ALA A 277     -19.235  -8.547  -9.329  1.00 49.10           C  
 TER    2009      ALA A 277                                                      
-HETATM 2010  O   HOH A 407       4.771   6.966  -0.348  1.00 51.87           O  
-HETATM 2011  O   HOH A 430      -1.114  12.767   4.914  1.00 46.17           O  
-HETATM 2012  O   HOH A 435       3.869   3.847   5.032  1.00 56.30           O  
 END   

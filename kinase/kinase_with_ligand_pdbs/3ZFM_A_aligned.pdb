@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...00 742 765 2018')
+REMARK Selection 'not water'
 ATOM      1  N   GLU A 615      13.020  16.834 -13.200  1.00 50.80           N  
 ATOM      2  CA  GLU A 615      11.640  16.778 -13.687  1.00 50.53           C  
 ATOM      3  C   GLU A 615      10.936  18.128 -13.542  1.00 54.43           C  
@@ -1931,5 +1931,4 @@ ATOM   1929  CB  MET A 893     -24.091 -11.126   9.043  1.00 52.19           C
 ATOM   1930  CG  MET A 893     -23.609  -9.690   8.879  1.00 55.99           C  
 ATOM   1931  SD  MET A 893     -24.650  -8.644   7.823  1.00 60.31           S  
 ATOM   1932  CE  MET A 893     -26.005  -8.276   8.949  1.00 56.98           C  
-HETATM 1933  O   HOH A2018      -1.183  11.656   6.748  1.00 32.50           O  
 END   

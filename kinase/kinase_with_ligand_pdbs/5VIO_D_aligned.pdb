@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...24 826 827 4000')
+REMARK Selection 'not water'
 ATOM      1  N   LEU D 670      11.643  23.710 -13.953  1.00167.47           N  
 ATOM      2  CA  LEU D 670      10.673  22.623 -14.041  1.00166.32           C  
 ATOM      3  C   LEU D 670       9.498  22.886 -13.086  1.00164.77           C  

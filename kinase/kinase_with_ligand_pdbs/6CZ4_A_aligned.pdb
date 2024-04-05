@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn... 9189 9191 9207')
+REMARK Selection 'not water'
 ATOM      1  N   ASP A 183      11.582  13.013 -16.975  1.00 50.43           N  
 ATOM      2  CA  ASP A 183      12.469  12.574 -15.862  1.00 49.54           C  
 ATOM      3  C   ASP A 183      11.892  13.009 -14.519  1.00 47.58           C  
@@ -2106,9 +2106,4 @@ HETATM 2104  F31 FKY A9001       3.073   1.292  -4.095  1.00 27.20           F
 HETATM 2105  F32 FKY A9001       2.729   0.919  -6.214  1.00 27.49           F  
 HETATM 2106  F33 FKY A9001       1.607   2.479  -5.208  1.00 29.39           F  
 HETATM 2107  F34 FKY A9001       3.217  10.080  -0.802  1.00 21.73           F  
-HETATM 2108  O   HOH A9111      -5.396  17.338   5.201  1.00 49.25           O  
-HETATM 2109  O   HOH A9164      -4.344  18.032   7.655  1.00 48.01           O  
-HETATM 2110  O   HOH A9189       3.424  10.314   7.497  1.00 30.07           O  
-HETATM 2111  O   HOH A9191      -2.808  16.439   9.190  1.00 34.76           O  
-HETATM 2112  O   HOH A9207       5.934   8.025   3.912  1.00 24.98           O  
 END   

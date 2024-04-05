@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...76 777 780 1001')
+REMARK Selection 'not water'
 ATOM      1  N   VAL F 600      12.968   6.289 -19.419  1.00 89.44           N  
 ATOM      2  CA  VAL F 600      11.855   6.773 -18.590  1.00 90.62           C  
 ATOM      3  C   VAL F 600      12.346   7.861 -17.620  1.00 83.50           C  

@@ -1,4 +1,4 @@
-REMARK AtomMap (Selection 'protein') + (Selection 'hetero and resn...9 500 2001 2015')
+REMARK Selection 'not water'
 ATOM      1  N   ARG A  70      10.366  21.467 -16.599  1.00104.17           N  
 ATOM      2  CA  ARG A  70      11.466  20.458 -16.688  1.00105.15           C  
 ATOM      3  C   ARG A  70      12.290  20.429 -15.389  1.00103.26           C  
@@ -2058,6 +2058,4 @@ HETATM 2056  O32 VX6 A 500       4.747   9.800   2.838  1.00 59.71           O
 HETATM 2057  C33 VX6 A 500       4.615   7.740   1.646  1.00 62.43           C  
 HETATM 2058  C34 VX6 A 500       4.902   8.206   0.212  1.00 63.64           C  
 HETATM 2059  C35 VX6 A 500       6.047   7.919   1.157  1.00 63.22           C  
-HETATM 2060  O   HOH A2001      -1.197  15.171   9.654  1.00 53.04           O  
-HETATM 2061  O   HOH A2015      -2.982  11.664   8.344  1.00 65.79           O  
 END   
